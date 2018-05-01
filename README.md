@@ -76,5 +76,5 @@ DELETE:
 when navigating to the calorie log page and making an entry in the database you can delete the entries that you wish to delete by clicking the corresponding delete key to the date that you want to delete.
 
 Video URL
-
+https://youtu.be/ae_mzA8MBE0
 
