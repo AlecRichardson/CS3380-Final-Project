@@ -1,8 +1,6 @@
 # CS3380 Final Project
-Group members: Alec Richardson
-                Dylan Barrett
 
-
+demonstrates php, sql knowledge
 
 LINK TO WEBSITE
 
